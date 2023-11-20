@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day11\Assignment16QuickSort\Assignment16QuickSort\bin\Debug\Assignment16QuickSort.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day11\Assignment16QuickSort\Assignment16QuickSort\bin\Debug\Assignment16QuickSort.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day11\Assignment16QuickSort\Assignment16QuickSort\bin\Debug\Assignment16QuickSort.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day11\Assignment16QuickSort\Assignment16QuickSort\obj\Debug\Assignment16QuickSort.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day11\Assignment16QuickSort\Assignment16QuickSort\obj\Debug\Assignment16QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day11\Assignment16QuickSort\Assignment16QuickSort\obj\Debug\Assignment16QuickSort.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day11\Assignment16QuickSort\Assignment16QuickSort\obj\Debug\Assignment16QuickSort.pdb
